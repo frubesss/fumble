@@ -1,4 +1,4 @@
-# fumble-next
+# fumble
 
 > Anki/Flash card application powered by an Airtable backend.
 
