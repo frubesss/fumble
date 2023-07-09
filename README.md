@@ -55,14 +55,6 @@ yarn dev
 * Github: [@frubesss](https://github.com/frubesss)
 * Email: robetson.cra@gmail.com
 
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
 ## Inspiration
 
 - [Care Cards](https://carecards.io/cards)
